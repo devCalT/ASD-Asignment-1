@@ -1,10 +1,4 @@
-# ASD-Demo-app
-# ASD-Asignment-1
-# ASD-Asignment-1
-# ASD-Asignment-1
-# ASD-Asignment-1
-# ASD-Asignment-1
-# ASD-Asignment-1
-# ASD-Asignment-1
-# ASD-Asignment-1
-# ASD-Demo-app
+# UTS ASD-Asignment-1
+
+Design and Develop a live website with unit testing and CI/CD integration.
+
